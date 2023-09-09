@@ -10,4 +10,4 @@
 
 # Contact
 
-Feel free to reach out to me at via [email](chamindabulumulla@gmail.com) or via [LinkedIn](https://www.linkedin.com/in/chaminda-bulumulla/) to discuss potential collaborations or opportunities in the field of data engineering. Thank you for visiting my portfolio, and I look forward to sharing more about my data engineering journey with you!
+Feel free to reach out to me at chamindabulumulla@gmail.com or connect on [LinkedIn](https://www.linkedin.com/in/chaminda-bulumulla/) to discuss potential collaborations or opportunities in the field of data engineering. Thank you for visiting my portfolio, and I look forward to sharing more about my data engineering journey with you!
