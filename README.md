@@ -5,6 +5,7 @@
 
 [Project Name] - [Brief description of the project, its purpose, and the technologies used. Highlight any challenges overcome and results achieved.]
 
+## [Danny's 8 Week SQL Challenge](https://github.com/chambul/sql_projects/tree/main/dannys_sql_case_studies) 
 
 # Skills
 
