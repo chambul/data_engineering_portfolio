@@ -6,6 +6,7 @@
 [Project Name] - [Brief description of the project, its purpose, and the technologies used. Highlight any challenges overcome and results achieved.]
 
 ## [TLC Taxi Data Analysis](https://github.com/chambul/DE_projects_1/tree/main/TLC_taxi_data_analysis)
+![](./taxi_data_analysis_workflow.png)
 
 ## [Danny's 8 Week SQL Challenge](https://github.com/chambul/sql_projects/tree/main/dannys_sql_case_studies) 
 
