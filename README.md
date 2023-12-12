@@ -11,7 +11,7 @@
 This is the final project conducted for the course "IBM: Python Project for Data Engineering". This involves webscrapping data using APIs, developing an ETL pipeline and loading data into an SQLite database. All data operations are logged into a log file.
 
 ## [TLC Taxi Data Analysis](https://github.com/chambul/DE_projects_1/tree/main/TLC_taxi_data_analysis)
-![](./taxi_data_analysis_workflow.png)
+![](./pipeline_images/taxi_data_analysis_workflow.png)
 
 ## [Danny's 8 Week SQL Challenge](https://github.com/chambul/sql_projects/tree/main/dannys_sql_case_studies) 
 
