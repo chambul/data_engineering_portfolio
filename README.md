@@ -12,7 +12,7 @@
 ## [IBM Data Engineering Project](https://github.com/chambul/data_engineering_projects/tree/main/IBM_data_engineering_project/final_project)
 This is the final project conducted for the course "IBM: Python Project for Data Engineering". This involves webscrapping data using APIs, developing an ETL pipeline and loading data into an SQLite database. All data operations are logged into a log file.
 
-## [Danny's 8 Week SQL Challenge](https://github.com/chambul/sql_projects/tree/main/dannys_sql_case_studies) 
+## [Danny's SQL Challenge](https://github.com/chambul/sql_projects/tree/main/dannys_sql_case_studies) 
 
 
 # Contact
