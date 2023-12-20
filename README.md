@@ -13,7 +13,7 @@
 This is the final project conducted for the course "IBM: Python Project for Data Engineering". This involves webscrapping data using APIs, developing an ETL pipeline and loading data into an SQLite database. All data operations are logged into a log file.
 
 ## [Danny's SQL Challenge](https://github.com/chambul/sql_projects/tree/main/dannys_sql_case_studies) 
-
+My attempts at tackling Danny's SQL case studies.
 
 # Contact
 
